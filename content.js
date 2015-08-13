@@ -5,5 +5,4 @@ $(document).ready(function () {
 			$('#addWikiAreaBox [name="wiki_type_title"]').val(request.val);
 		}
 	});
-
 });
